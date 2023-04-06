@@ -70,7 +70,7 @@ moon.addEventListener('click', (e) => {
 // ------------------------------ Different Text ------------------------------ 
 
 const typed = new Typed(".job", {
-    strings: ["Front-End Developer", "Back-End Developer", "Youtuber"],
+    strings: ["Front-End Developer", "Back-End Developer", "Mobile Developer"],
     typeSpeed: 100,
     BackSpeed: 60,
     loop: true
@@ -129,7 +129,7 @@ function sendEmail() {
     Email.send({
         SecureToken : "48d2252a-a024-4cab-aa3b-52d96499c30d",
         
-        To: 'emre.mrt98@gmail.com',
+        To: 'adem.demir.fe@gmail.com',
         From: document.querySelector(".input2").value,
         Subject: document.querySelector(".input3").value,
         Body: document.querySelector(".textArea").value
