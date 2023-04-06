@@ -536,21 +536,30 @@
     background-color: var(--skin-color);
 }
 
-.jquery {
-    width: 60%;
+.ionic {
+    width: 100%;
     background-color: var(--skin-color);
 }
 
-.node {
-    width: 30%;
+.angular {
+    width: 80%;
     background-color: var(--skin-color);
 }
 
-.python {
-    width: 60%;
+.java {
+    width: 70%;
     background-color: var(--skin-color);
 }
 
+.sql {
+    width: 70%;
+    background-color: var(--skin-color);
+}
+
+.springboot {
+    width: 40%;
+    background-color: var(--skin-color);
+}
 
 /*------------------------------------ Education - Experience ------------------------------------*/
 
