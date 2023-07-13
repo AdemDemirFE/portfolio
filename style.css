@@ -497,7 +497,7 @@
 }
 
 .container {
-    width: 550%;
+    width: 90%;
     background-color: #ddd;
     border-radius: 15px;
 }
@@ -521,36 +521,45 @@
 
 }
 
-.css {
+.ionic {
+    width: 100%;
+    background-color: var(--skin-color);
+}
+
+.angular {
     width: 80%;
     background-color: var(--skin-color);
 }
 
-.js {
-    width: 70%;
-    background-color: var(--skin-color);
-}
-
-.boostrap {
-    width: 60%;
-    background-color: var(--skin-color);
-}
-
-.jquery {
-    width: 60%;
-    background-color: var(--skin-color);
-}
-
-.node {
+.react {
     width: 30%;
     background-color: var(--skin-color);
 }
 
-.python {
+.java {
+    width: 70%;
+    background-color: var(--skin-color);
+}
+
+.sql {
+    width: 50%;
+    background-color: var(--skin-color);
+}
+
+.rest {
     width: 60%;
     background-color: var(--skin-color);
 }
 
+.oop {
+    width: 90%;
+    background-color: var(--skin-color);
+}
+
+.pmo {
+    width: 70%;
+    background-color: var(--skin-color);
+}
 
 /*------------------------------------ Education - Experience ------------------------------------*/
 
